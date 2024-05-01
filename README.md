@@ -14,7 +14,7 @@ You can try it in [google colab](https://colab.research.google.com/drive/1YlWt--
 ### Installation
 
 ```bash
-pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
+pip install git+https://github.com/noor-ahmad-haral/RealSRGAN.git
 ```
 
 ### Usage
